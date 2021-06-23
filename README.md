@@ -22,6 +22,7 @@ The main goal of this project is to automate the checkout process on any Shopify
   <li>Add the ability to check if element is needed and update ID accordingly - Some sites don't require email and phone which causes the ID of the input to change. The same goes with the phone number field at the botton of the customer info form - Some sites may not require a phone number to be entered</li>
   <li>Add a condition to determine if a checkout captcha is needed.</li>
   <li>Create a bypass for the checkout queue - Generate checkout link/token before drop and use that link after updating cart with targeted product. Have seen success using this method in the past but not sure how well it works anymore.</li>
+  <li>Add discord webhook support<li>
 </ul>
 
 <h3>Wishlist:</h3>
